@@ -139,15 +139,15 @@ He also gave some "[Data Science Portfolio Tips](https://youtu.be/ddFskLtQsbI)" 
 
 - You can start with Spyder for the integrated development environment (IDE) or coding environment, as well as RStudio and Visual Studio (VS) Code.
 
-And so I started with having this "Intro to Data Science" website and already have a couple of my own ideas for some data science projects aside from learning from the projects that the Data Professor ([Drug Discovery project](https://youtube.com/playlist?list=PLtqF5YXg7GLlQJUv9XJ3RWdd5VYGwBHrP)), Ken Jee and Krish Naik ([Air Quality Index project](https://youtu.be/CTu0qnuMxgA)) have. I hope this "quick introductory course" also helps you as you jumpstart into a career path towards data science as a biologist, a microbiologist like me, even a biochemist, or someone in the field of medicine. The next step into this journey is yours to take. For me, I have planned on delving more into the Data Professor's bioinformatics-related videos to immerse myself more into the "science" in data science.
+And so I started with having this website and blog on GitHub and writing this blog post. I also already have a couple of my own ideas for some data science projects aside from learning from the projects that the Data Professor ([Drug Discovery project](https://youtube.com/playlist?list=PLtqF5YXg7GLlQJUv9XJ3RWdd5VYGwBHrP)), Ken Jee and Krish Naik ([Air Quality Index project](https://youtu.be/CTu0qnuMxgA)) have. I hope this "quick introductory course" also helps you as you jumpstart into a career path towards data science as a biologist, a microbiologist like me, even a biochemist, or someone in the field of medicine. The next step into this journey is yours to take. For me, I have planned on delving more into the Data Professor's bioinformatics-related videos to immerse myself more into the "science" in data science.
 
 
 
 _Some other videos you can check out:_
 
-[How to switch career to data science from non computer science background]() by codebasics
+[How to switch career to data science from non computer science background](https://youtu.be/P8BuKf9crA8) by codebasics
 
-[Structure, Bioinformatics and Data Science area - Global Research Technology]() by Novo Nordisk
+[Structure, Bioinformatics and Data Science area - Global Research Technology](https://youtu.be/DTOe4UnFadg) by Novo Nordisk
 
 
 
