@@ -149,3 +149,13 @@ _Some other videos you can check out:_
 [How to switch career to data science from non computer science background]() by codebasics
 
 [Structure, Bioinformatics and Data Science area - Global Research Technology]() by Novo Nordisk
+
+
+
+<script src="https://utteranc.es/client.js"
+        repo="mlizjmc/blog"
+        issue-term="[ENTER TERM HERE]"
+        theme="preferred-color-scheme"
+        crossorigin="anonymous"
+        async>
+</script>
