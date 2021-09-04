@@ -2,11 +2,9 @@
 toc: true
 layout: post
 description: Come from a Life Science background and encountering Data Science for the first time? Don't have an idea of what you can do in the field of Data Science as a Life Scientist? Get started here.
-categories: [data science courses]
+categories: [Data Science Courses]
 title: Life Scientists' Quick Introduction to Data Science
 ---
-
-# Life Scientists' Quick Introduction to Data Science
 
 
 
