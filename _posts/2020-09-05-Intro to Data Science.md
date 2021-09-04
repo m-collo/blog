@@ -1,16 +1,12 @@
+---
+toc: true
+layout: post
+description: Come from a Life Science background and encountering Data Science for the first time? Don't have an idea of what you can do in the field of Data Science as a Life Scientist? Get started here.
+categories: [data science courses]
+title: Life Scientists' Quick Introduction to Data Science
+---
+
 # Life Scientists' Quick Introduction to Data Science
-
-What do you need to become a data scientist?
-
-Data Science Portfolio
-
-  Why should you implement data science projects?
-
-  How do you get projects?
-  
-  Where do you find datasets?
-  
-  How do you start?
 
 
 
