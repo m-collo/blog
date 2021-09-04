@@ -12,7 +12,7 @@ title: Life Scientists' Quick Introduction to Data Science
 
 I stumbled upon data science in 2015 through “[The Data Scientist's Toolbox](https://www.coursera.org/learn/data-scientists-tools)” course offered through [Coursera](https://www.coursera.org/). As someone who has always been interested in the medical field of the life sciences, I was intrigued at the fact that the course was being offered through Johns Hopkins University by a group of professors of Biostatistics at the Bloomberg School of Public Health. Public health was a field of interest of mine. The word biostatistics also brought to mind memories of doing well and enjoying the subject during college and my graduate studies. But as I finished the course and continued on with the "Data Science Specialization: [R Programming](https://www.coursera.org/learn/r-programming?specialization=jhu-data-science)" course (which I didn't finish), I felt bombarded with the terms "big data" and "programming" without having a clear understanding of what I could potentially do in the field of data science.
 
-Fast forward to 6 years later (after detouring into the field of online writing and tutoring freelance work), I stumbled upon data science again when I found out that a Master of Statistics degree was being offered at a university in the area I moved to 3 years ago (and currently living in). And of course, it was a master's study that required thesis work. It made me think about what I could do with statistics in the field of microbiology, and then the first thing I did was to look up the words "statistics in microbiology" on YouTube. After scrolling through the available media, I came upon an interview conducted by [codebasics](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ) with the [Data Professor](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q), in the video called "[Data Science in Biology | How a biologist became a data scientist](https://youtu.be/JCGbRDL7F10)." That was the start of my understanding of what I could do as a data scientist in the field of microbiology.
+Fast forward to 6 years later (after detouring into the field of online writing and tutoring freelance work), I stumbled upon data science again when I found out that a Master of Statistics degree was being offered at a university in the area I moved to 3 years ago (and currently living in). And of course, it was a master's study that required thesis work. It made me think about what I could do with statistics in the field of microbiology, and then the first thing I did was to look up the words "statistics in microbiology" on YouTube. After scrolling through the available media, I came upon an interview conducted by [codebasics](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ) with the [Data Professor](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q), in the video called "[Data Science in Biology  How a biologist became a data scientist](https://youtu.be/JCGbRDL7F10)." That was the start of my understanding of what I could do as a data scientist in the field of microbiology.
 
 
 
@@ -112,13 +112,13 @@ He also gave some "[Data Science Portfolio Tips](https://youtu.be/ddFskLtQsbI)" 
 
 - Find out the niche in a certain location. -
 
-⋅In my case, I need to learn more about the research being done in the university I am planning to take Master of Statistics in and do research in in the future. I learned that two of the main research being done in the university is on mushrooms and aqua marine resources. In my time doing undergraduate and graduate studies in microbiology, fungi, particularly marine fungi, and marine protists were also hot topics with the microbiology professors and researchers in my old university. I also have relatives who are doing business, research, and implementation (at a different college) on mushroom production in the surrounding area.
+⋅⋅⋅In my case, I need to learn more about the research being done in the university I am planning to take Master of Statistics in and do research in in the future. I learned that two of the main research being done in the university is on mushrooms and aqua marine resources. In my time doing undergraduate and graduate studies in microbiology, fungi, particularly marine fungi, and marine protists were also hot topics with the microbiology professors and researchers in my old university. I also have relatives who are doing business, research, and implementation (at a different college) on mushroom production in the surrounding area.
 
 - Try to be flexible in your projects by trying out different aspects, for example, doing mini projects focused on a specific aspect. Have diversity in your projects as well, for example, by using different types of algorithms (classification, clustering, regression). - Ken Jee
 
 - Choose and do projects based on the type of career you are targeting or your end goal. - Dhaval 
 
-⋅You can look into job descriptions about what kinds of tools are used or required and try to do projects to learn more or gain experience with these tools. (Check out [Ken Jee's project](https://youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t) on the topic.)
+⋅⋅⋅You can look into job descriptions about what kinds of tools are used or required and try to do projects to learn more or gain experience with these tools. (Check out [Ken Jee's project](https://youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t) on the topic.)
 
 - Try to develop your soft skills such as communication (e.g. convincing people with the novelty you are presenting or conveying it) through your projects as well. Try to do some novel tweaks to existing algorithms in your projects, such as increasing performance or improving interpretability of a model. In science, you may need to convince biologists and/or chemists of your prediction model by using features, decision trees and linear regression. Make use of the data to drive actionable, reproducible results. - Dr. Nantasenamat
 
@@ -127,7 +127,8 @@ He also gave some "[Data Science Portfolio Tips](https://youtu.be/ddFskLtQsbI)" 
 ### _Where do you find datasets?_
 
 - If you are not a part of a company that has its own internal database already, there are some 3rd-party application programming interfaces (APIs) that sell data. - Krish Naik
-However, there are also some that provide it for free such as Amazon, Yahoo, Bloomberg, Yelp, YouTube (after requesting for a token), and Google.
+
+⋅⋅⋅However, there are also some that provide it for free such as Amazon, Yahoo, Bloomberg, Yelp, YouTube (after requesting for a token), and Google.
 
 - Web scraping is also an option and there are some tools, but there is also a grey area that can lead to some legal problems. Ken Jee suggests trying to search for the robots.txt file in websites before scraping.
 
@@ -148,15 +149,3 @@ _Some other videos you can check out:_
 [How to switch career to data science from non computer science background]() by codebasics
 
 [Structure, Bioinformatics and Data Science area - Global Research Technology]() by Novo Nordisk
-
-
-
-Next topics:
-
-Data Science Process
-
-Starting a Data Science / Data Mining Project
-
-Access to FREE Data
-
-Leveling Up Skills in Data Science
