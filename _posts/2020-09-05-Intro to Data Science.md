@@ -5,7 +5,6 @@ description: Come from a Life Science background and encountering Data Science f
 categories: [Data Science Courses]
 title: Life Scientists' Quick Introduction to Data Science
 sticky_rank: 1
-image: images/introtoscience.jpg
 ---
 
 
