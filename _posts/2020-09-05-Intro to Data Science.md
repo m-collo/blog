@@ -47,7 +47,11 @@ In his "[How to Become a Data Scientist (Learning Path and Skill Sets Needed)](h
 
 
 
+Seeing this overview of the Data Science Landscape by the Data Professor helped me to connect the dots between Data (or Big Data), Programming, as well as Statistics (or Biostatistics). It makes me feel happy seeing the Master of Statistics degree knowing my interest in biostatistics before and just with computers in general. I have an idea now on how to transition into Data Science by applying statistics into microbiology, also by learning more about programming languages such as R, pre-processing and visualizing data, topics that I've heard before such as machine learning, and other topics that I've also been interested on such as software engineering, development and web development, brushing up my math, and also just by applying my writing skills, research, and being creative.
+
 Next comes the question: "[To PhD or not to PhD](https://youtu.be/ulRPiEJRyFQ)?" By then, it was no question to me that I really wanted to pursue the Master of Statistics degree I found from a university. What was a question to me though was whether I wanted to continue teaching in university or not, as I had a previous experience. Dr. Chanin Nantasenamat, Ph.D. is an Associate Professor who is also aiming for Professorship at the university he was in (as he mentioned in his interview with codebasics). Because of his data science efforts, a Center of Data Mining and Biomedical Informatics was established at the university he works in. My science dream has always been to focus in the field of research, and I dreamed that I wanted to work on research at UNP and maybe even help establish a research center focused on data science in the university too. I knew that a stepping stone into that direction could be to become a part of the college faculty in the university, but maybe I could also simply find work in the university's Research and Development Office. I would have to look into the kind of research being done in the university.
+
+(I also looked into the Johns Hopkins Bloomberg School of Public Health Department of Biostatistics, which is offering a PhD program. I learned how the foundations of data science and advanced data science are involved in it, leading to a career as a data scientist, with courses on topics such as machine learning, programming, data, algorithms, AI, computer vision, and natural language processing, and with applications on public health, or the biomedical sciences, genomics, and computational biology.)
 
 
 
@@ -61,7 +65,7 @@ Another important point presented by Dr. Nantasenamat is the importance of condu
 
 ## Data Science Portfolio
 
-With data science projects also comes having a Data Science Portfolio. Dr. Nantasenamat gave some tutorials on "[Building your Data Science Portfolio with GitHub](https://youtu.be/fCXBaEnPzgo)" and "[How to Build a Simple Portfolio Website for FREE](https://youtu.be/6NXLGP65S2Q)" through GitHub as well. You can see this website as an example born from those two tutorials.
+With data science projects also comes having a Data Science Portfolio. Dr. Nantasenamat gave some tutorials on "[Building your Data Science Portfolio with GitHub](https://youtu.be/fCXBaEnPzgo)" and "[How to Build a Simple Portfolio Website for FREE](https://youtu.be/6NXLGP65S2Q)" through GitHub as well. You can also build a blogging website to showcase your portfolio "[using fastpages](https://youtu.be/sepml4GLLSM)." You can see this website as an example born from these tutorials.
 
 
 
@@ -77,7 +81,13 @@ With data science projects also comes having a Data Science Portfolio. Dr. Nanta
 
 
 
-He also gave some "[Data Science Portfolio Tips](https://youtu.be/ddFskLtQsbI)" through a discussion with other Data Science YouTubers, Dhaval (codebasics), [Ken Jee](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg) and [Krish Naik](https://www.youtube.com/user/krishnaik06). Here I outline the points that can be taken away from discussion:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sepml4GLLSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> Do you want to showcase your coding and data science projects? In this video, we will explore how to build a portfolio website that natively supports the display of Jupyter notebooks by using the FastPages template from the creators of fastai. This portfolio website can double as a blogging website where you can write blog posts in Markdown as well as in a Microsoft Word DOC file format. Particularly, the fastpages template can convert IPYNB, MD and DOC files to webpages and finally the website is hosted on GitHub Pages for FREE!
+
+
+
+He also gave some "[Data Science Portfolio Tips](https://youtu.be/ddFskLtQsbI)" through a discussion with other Data Science YouTubers, Dhaval (codebasics), [Ken Jee](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg) and [Krish Naik](https://www.youtube.com/user/krishnaik06). They talk about the reasons why data science projects should be implemented, the benefits of doing so in freshers' job search, the question of quantity versus quality when it comes to doing projects, their favorite projects that they have done, data science projects that can be explored on the topic of the coronavirus, where to find datasets, their favorite machine learning algorithms, recommendations for deep learning, and IDEs/coding environments they use. 
 
 
 
@@ -86,6 +96,8 @@ He also gave some "[Data Science Portfolio Tips](https://youtu.be/ddFskLtQsbI)" 
 > In this video, I had a panel discussion about building data science portfolio with Data Science YouTube influencers Ken Jee, Krish Naik, Dhaval (codebasics). All four of us come from different countries and we bring unique perspectives on the topics discussed.
 
 
+
+Here, I outline the points that can be taken away from discussion into four main points under the topic of the Data Science Portfolio:
 
 ### _Why should you implement data science projects?_
 
@@ -109,25 +121,25 @@ He also gave some "[Data Science Portfolio Tips](https://youtu.be/ddFskLtQsbI)" 
 
 - Choose projects that tell your own personal story, that you're interested or passionate in, or that can be related to the work being done by the company you are applying to. Choose a subject area or domain that you can learn, explain, work on, and present, something you can talk about with the employer during the job interview or give real world examples to. - Ken Jee
 
-- Find out the niche in a certain location. -
+- Find out the niche in a certain location. - Dhaval
 
-⋅⋅⋅In my case, I need to learn more about the research being done in the university I am planning to take Master of Statistics in and do research in in the future. I learned that two of the main research being done in the university is on mushrooms and aqua marine resources. In my time doing undergraduate and graduate studies in microbiology, fungi, particularly marine fungi, and marine protists were also hot topics with the microbiology professors and researchers in my old university. I also have relatives who are doing business, research, and implementation (at a different college) on mushroom production in the surrounding area.
+In my case, I need to learn more about the research being done in the university I am planning to take Master of Statistics in and do research in in the future. I learned that two of the main research being done in the university is on mushrooms and aqua marine resources. In my time doing undergraduate and graduate studies in microbiology, fungi, particularly marine fungi, and marine protists were also hot topics with the microbiology professors and researchers in my old university. I also have relatives who are doing business, research, and implementation (at a different college) on mushroom production in the surrounding area.
 
 - Try to be flexible in your projects by trying out different aspects, for example, doing mini projects focused on a specific aspect. Have diversity in your projects as well, for example, by using different types of algorithms (classification, clustering, regression). - Ken Jee
 
 - Choose and do projects based on the type of career you are targeting or your end goal. - Dhaval 
 
-⋅⋅⋅You can look into job descriptions about what kinds of tools are used or required and try to do projects to learn more or gain experience with these tools. (Check out [Ken Jee's project](https://youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t) on the topic.)
+You can look into job descriptions about what kinds of tools are used or required and try to do projects to learn more or gain experience with these tools. (Check out [Ken Jee's project](https://youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t) on the topic.)
 
 - Try to develop your soft skills such as communication (e.g. convincing people with the novelty you are presenting or conveying it) through your projects as well. Try to do some novel tweaks to existing algorithms in your projects, such as increasing performance or improving interpretability of a model. In science, you may need to convince biologists and/or chemists of your prediction model by using features, decision trees and linear regression. Make use of the data to drive actionable, reproducible results. - Dr. Nantasenamat
 
-- You can start with a problem, grab the data then solve it or you can start with the data. Learn to communicate the value in your project, for example to business stakeholders. What do you want to determine? to solve? Who would the analysis help? Don't forget to document and share your work. - Dr. Nantasenamat
+- You can start with a problem, grab the data then solve it or you can start with the data. Learn to communicate the value in your project, for example to business stakeholders. What do you want to determine? to solve? Who would the analysis help? Don't forget to document and share your work. - Ken Jee
 
 ### _Where do you find datasets?_
 
 - If you are not a part of a company that has its own internal database already, there are some 3rd-party application programming interfaces (APIs) that sell data. - Krish Naik
 
-⋅⋅⋅However, there are also some that provide it for free such as Amazon, Yahoo, Bloomberg, Yelp, YouTube (after requesting for a token), and Google.
+However, there are also some that provide it for free such as Amazon, Yahoo, Bloomberg, Yelp, YouTube (after requesting for a token), and Google.
 
 - Web scraping is also an option and there are some tools, but there is also a grey area that can lead to some legal problems. Ken Jee suggests trying to search for the robots.txt file in websites before scraping.
 
