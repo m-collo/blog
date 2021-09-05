@@ -137,7 +137,7 @@ You can look into job descriptions about what kinds of tools are used or require
 
 ### _Where do you find datasets?_
 
-- If you are not a part of a company that has its own internal database already, there are some 3rd-party application programming interfaces (APIs) that sell data. - Krish Naik
+- Aside from being a part of a company that has its own internal database already, there are some 3rd-party application programming interfaces (APIs) that sell data. - Krish Naik
 
 However, there are also some that provide it for free such as Amazon, Yahoo, Bloomberg, Yelp, YouTube (after requesting for a token), and Google.
 
