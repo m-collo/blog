@@ -9,6 +9,8 @@ sticky_rank: 1
 
 
 
+*Updated February 3, 2022: Added video "My journey into data science"
+
 I stumbled upon data science in 2015 through “[The Data Scientist's Toolbox](https://www.coursera.org/learn/data-scientists-tools)” course offered through [Coursera](https://www.coursera.org/). As someone who has always been interested in the medical field of the life sciences, I was intrigued at the fact that the course was being offered through Johns Hopkins University by a group of professors of Biostatistics at the Bloomberg School of Public Health. Public health was a field of interest of mine. The word biostatistics also brought to mind memories of doing well and enjoying the subject during college and my graduate studies. But as I finished the course and continued on with the "Data Science Specialization: [R Programming](https://www.coursera.org/learn/r-programming?specialization=jhu-data-science)" course (which I didn't finish), I felt bombarded with the terms "big data" and "programming" without having a clear understanding yet of what I could potentially do in the field of data science.
 
 Fast forward to 6 years later (after detouring into the field of online writing and tutoring freelance work), I stumbled upon data science again when I found out that a Master of Statistics degree was being offered at a university in the area I moved to 3 years ago (and currently living in). And of course, it was a master's study that required thesis work. It made me think about what I could do with statistics in the field of microbiology, and then the first thing I did was to look up the words "statistics in microbiology" on YouTube. After scrolling through the available media, I came upon an interview conducted by [codebasics](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ) with the [Data Professor](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q), in the video called "[Data Science in Biology  How a biologist became a data scientist](https://youtu.be/JCGbRDL7F10)." That was the start of my understanding of what I could do as a data scientist in the field of microbiology.
@@ -24,6 +26,12 @@ Fast forward to 6 years later (after detouring into the field of online writing 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IYHrZx0G12w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > In this video, Chanin Nantasenamat, Ph.D. AKA the Data Professor share experiences on how he transitioned from a biologist to becoming a data scientist (bioinformatician) working in bioinformatics.
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J8GODfmKRHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> In this video, I talk about how I entered the field of data science as a self-taught. Briefly, I came from a non-technical background namely from biology where I have self-taught myself how to code as well as applying this to implement several data science pipelines. Although the journey was not particularly a straightforward path, I can attest that it is definitely possible for any aspiring data scientist.
 
 
 
