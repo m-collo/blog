@@ -19,7 +19,11 @@ One of the presentations in the Mathematics section during the virtual conferenc
 
 A further undergraduate study in UST, under the guidance of the same researcher as before, tested for the “**Feasibility of Markov Chain Modelling Techniques for COVID-19 Cases Prediction in the Philippines**” ([Watch at 1:53:43](https://fb.watch/aXmrDqKpUH/)). They first identified the average infection, recovery, and death rates of COVID-19, obtained from the Department of Health (DOH) official website (and optimized using SciPy). They then determined the accuracy of Markov Chains for COVID-19 cases production by comparing it to the real-time local data they obtained. They used a four-state Markov chain process. So far they only have partial results that “showed promise on some occasions” and are still conducting further testing. Another UST undergraduate study focused on analyzing the “sentiment” of people on COVID-19 vaccination programs ([Watch at 2:03:56](https://fb.watch/aXmrDqKpUH/)). They conducted a survey to do this. Some of the things they discovered is that people were willing to be vaccinated but the vaccination program was not made immediately available to the public since the Philippines’ COVID-19 Inter-Agency Task Force prioritized the frontliners, the elderly population, and those with comorbidities first. To the few that refused vaccination, they were influenced by social media and their religious beliefs. The presentations for these two studies are available in the UST College of Science Department of Mathematics and Physics Facebook page.
 
+
+
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fustmathphysicsdept%2Fvideos%2F176997104629803%2F&show_text=false&width=560&t=6823" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+
 
 Under the Statistics section, a study on the **Spatio-Temporal Analysis of the COVID-19 Pandemic in Baguio** was presented by a researcher from the University of Philippines and Nueva Vizcaya State University. They investigated the geographic information system maps of cumulative incidence rates and used the Moran's index to determine significant spatial autocorrelations then hotspot analysis using the Getis-Ord GI* and Local Moran's I of QGIS, confirming with cluster and outlier analysis. Another researcher from UP Baguio conducted **A Social Network Analysis of COVID-19 Transmission**, this time, **in Rosales, Pangasinan**, using R's igraph package to create network graphs, focusing on the node (which represented the infected individuals) and the edge (the directed links from sources to target patients) attributes, applying degree, closeness, and betweenness centrality.
 
@@ -33,23 +37,38 @@ One of the conference’s keynote speakers, from the Universiti Teknologi Malays
 
 ![Descriptive analysis dashboard](https://i.imgur.com/v5zvHy9.png)
 
+
+
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fiaceuum%2Fvideos%2F2715978152041211%2F&show_text=false&width=560&t=11901" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+
 
 Last November 26, 2021 in the meantime, the UST College of Science Department of Mathematics and Physics held what is jointly the 26th Rev. Fr. Ciriaco Pedrosa, O.P. Memorial Lecture Series and the 8th International Symposium on Math and Physics. In this lecture series and symposium, a fellow of [OCTAResearch](https://www.octaresearch.com/) that has been studying the COVID-19 pandemic in the Philippines (as well as professor of the biological sciences at UST) presented his lecture entitled “The Science and Art of Modeling Hospital Utilization in the NCR” ([Watch at 49:34](https://fb.watch/aXo5njO4qP/)). I was able to watch his lecture live through the department’s Facebook page. He talked about utilizing basic spreadsheet modeling with Excel due to the shortcomings of DOH data and the need to use the most basic modeling for its simplicity.
 
+
+
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fustmathphysicsdept%2Fvideos%2F577335653567140%2F&show_text=false&width=560&t=2974" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+
 
 Lastly, I attended the webinar “Up-To-Date with Microbiology” held by the Standing Committee on Research Exchange (SCORE) of San Beda University’s (Manila) Social Action Medical Students Association (SAMA), in partnership with the Philippine Society for Microbiology, Inc. and the American Society for Microbiology, last December 11th, 2021. The lectures included the implication of secondary bacterial infections to COVID-19 patients ([Watch at 31:50](https://fb.watch/aXoIIwImC7/)) and “Emerging Therapeutic Interventions on COVID-19” ([Watch at 1:26:15](https://fb.watch/aXoIIwImC7/)). In particular, the use of artificial intelligence and machine learning was discussed as one “way forward in re-thinking interventions and innovations,” as well as drug development through virtual reality and “interactive molecular dynamics simulations.” These simulations are said to “allow researchers to step inside SARS-CoV-2 enzymes and visualize molecules binding to them.” The lecture speaker also introduced the ACCELER8 Project Team or “Advancing Antivirals thru Combined Computational Design and Emerging Omics to Leverage Repurposed and Natural Drugs for SARS-CoV-2 Therapeutics,” which is a collaboration between the University of the Philippines Manila, De La Salle University Manila, and the Philippine Genome Center Mindanao. They are currently in the in vitro testing stage of their drug candidates.
 
+
+
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FSAMASanBeda%2Fvideos%2F724633085593049%2F&show_text=false&width=560&t=1910" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+
 
 While I was considering delving into web development earlier last year, I found [this COVID-19 tracker](https://reeceballano.github.io/covid19tracker/?fbclid=IwAR1JSlj_ZDUXN9NE3I3BAvw-GatIuUO_k9MBPEAqQOYuu6UVLkU5AMsD6_g#/) developed by a former classmate of my aunt in college. She told me about him and the [free trainings being provided by our country’s Department of Information and Communications Technology, particularly on web development and graphic design](https://www.facebook.com/dict.luzonclusteri.3/posts/650866015955784?__cft__[0]=AZVE9SXJ79VsVEh_yd2OzPfWzAL-K1LXIOGo1GoFFd6nQqePTDcBFvaqri9x6FFjd2afXfpXurUQiZlAzlpNk2EwfcY9quIGur0CTZ-5bXTusO8c2_JTlj305Qkrmh7GEn4w57Xyt30atDJ1nTrcR8bEaddZW5uW2jI2RoqyASFAPQ&__tn__=%2CO%2CP-R), and I remember seeing the tracker he made which I think was also kind of what gave me inspiration for my idea for a COVID-19 data science project. Though that tracker records cases from all over the world and not just in the Philippines, mine is kind of like a COVID-19 cases visualizer for our area based on all the data I’ve been seeing that has been made available.
 
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sWysZkCtHsk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 Also, I learned that [my former college will be offering a new Bachelor of Science in Data Science and Analytics program starting this year](https://www.facebook.com/ustgalingscience/posts/2088752254622920?__cft__[0]=AZVoUeW-DyKBhZRqMV_iRyrbcz39dDQQoJaRoiMXhbHxsKS_RjOcPiCv7z7dSAiWWd5KN7OBFpF3laXJ5i40q5289UQK7loxblTqVtN65vyun8tWs132oTwSZCaohzK2YqtruxRFSfK8VFBSiAvvdYDK&__tn__=%2CO*F) when I attended our alumni general assembly last September 18, 2021. I was actually surprised when I learned about it, considering that I had just rediscovered my interest in Data Science by then and had been planning on segueing my career onto that path through a Master of Statistics program in a university here where I am now.
 
 ![Bachelor of Science in Data Science and Analytics](https://i.imgur.com/iQfBDcE.jpg)
 
 On that topic, I also recently had the thought, why not continue [the Data Science Specialization being offered by Johns Hopkins University at Coursera](https://www.coursera.org/specializations/jhu-data-science)? But then I remembered that I would have to dive right into R programming and I’m overcome by the feeling of being overwhelmed again. For some reason, I decided to look through any [other courses that might be offered by Johns Hopkins University](https://www.coursera.org/jhu) since I remembered that the Data Science courses were taught by Biostatistics professors at Bloomberg School of Public Health. That’s when I found the Math courses being offered (Algebra, Pre-calculus, Calculus) and that’s when I had the thought to brush up on my Math skills as the Data Professor mentioned that it was one of the skills important in the field of data science (See “What do you need to become a data scientist?” in my [Life Scientists' Quick Introduction to Data Science](https://melizzacollo.github.io/blog/data%20science%20courses/2020/09/05/Intro-to-Data-Science.html) post). So now I am currently taking Johns Hopkins’ [Algebra: Elementary to Advance Specialization](https://www.coursera.org/specializations/algebra-elementary-to-advancedhttps://www.coursera.org/specializations/algebra-elementary-to-advanced) in Coursera. I’m hoping to finish calculus by the time the academic year 2022-2033 starts for the Master of Statistics program.
-
