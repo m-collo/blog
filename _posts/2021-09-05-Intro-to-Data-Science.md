@@ -172,7 +172,7 @@ _Some other videos you can check out:_
 
 
 <script src="https://utteranc.es/client.js"
-        repo="mlizjmc/blog"
+        repo="melizzacollo/blog"
         issue-term="[ENTER TERM HERE]"
         theme="preferred-color-scheme"
         crossorigin="anonymous"
