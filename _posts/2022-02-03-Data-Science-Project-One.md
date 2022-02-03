@@ -3,7 +3,7 @@ toc: true
 layout: post
 description: The first data science project idea I had when I first learned about the importance of conducting data science projects in my goal of becoming a data scientist. Here I talk about what I learned up to date on data analysis conducted on the topic of COVID-19, specifically in my country.
 categories: [Data-Science-Projects]
-title: Data Science Project Idea One: A COVID-19 Cases Visualizer
+title: "Data Science Project Idea One: A COVID-19 Cases Visualizer"
 sticky_rank: 2
 ---
 
