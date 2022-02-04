@@ -10,7 +10,7 @@ sticky_rank: 3
 ---
 
 <p align="center"><b>The Implications of the COVID-19 Pandemic on the Family as the Basic Unit of Society:
-</br>The Rise of Domestic Violence Cases in Municipalities in the 1st and 2nd Districts of Ilocos Sur, Region I-Ilocos, North Luzon</b></p>
+<br>The Rise of Domestic Violence Cases in Municipalities in the 1st and 2nd Districts of Ilocos Sur, Region I-Ilocos, North Luzon</b></p>
 
 <p align="center"><i>A Proposed Study</i></p>
 
