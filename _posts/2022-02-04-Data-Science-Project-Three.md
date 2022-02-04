@@ -9,7 +9,7 @@ sticky_rank: 3
 
 ---
 
-<div style="font-family:'Arial'"><p align="center"><b>The Implications of the COVID-19 Pandemic on the Family as the Basic Unit of Society:
+<p align="center"><b>The Implications of the COVID-19 Pandemic on the Family as the Basic Unit of Society:
 <br>The Rise of Domestic Violence Cases in Municipalities in the 1st and 2nd Districts of Ilocos Sur, Region I-Ilocos, North Luzon</b></p>
 
 <p align="center"><i>A Proposed Study</i></p>
@@ -68,7 +68,7 @@ Marquez, Maria Paz N., Laguna, Elma P., Kabamalan, Maria Midea M., and Cruz, Gra
 
 Moore, Graham, Buckley, Kelly, Haworth, Emma, Burn, Anne-Marie, Copeland, Lauren, Evans, Rhiannon, and Ware, Lisa. (2021, September 25). Police referrals for domestic abuse before and during the first COVID-19 lockdown: An analysis of routine data from one specialist service in South Wales. *Journal of Public Health, pp. 1–8*, [https://doi.org/10.1093/pubmed/fdab343](https://doi.org/10.1093/pubmed/fdab343)
 
-United Nations Populations Fund (UNFPA). (2020, April 27). Impact of the COVID-19 pandemic on family planning and ending gender-based violence, female genital mutilation and child marriage: Pandemic threatens achievement of the Transformative Results committed by UNFPA. Avenir Health, USA: Johns Hopkins University, Australia: Victoria University (Contributors). *Interim Technical Note*, [https://www.unfpa.org/resources/impact-covid-19-pandemic-family-planning-and-ending-gender-based-violence-female-genital](https://www.unfpa.org/resources/impact-covid-19-pandemic-family-planning-and-ending-gender-based-violence-female-genital)<div>
+United Nations Populations Fund (UNFPA). (2020, April 27). Impact of the COVID-19 pandemic on family planning and ending gender-based violence, female genital mutilation and child marriage: Pandemic threatens achievement of the Transformative Results committed by UNFPA. Avenir Health, USA: Johns Hopkins University, Australia: Victoria University (Contributors). [https://www.unfpa.org/resources/impact-covid-19-pandemic-family-planning-and-ending-gender-based-violence-female-genital](https://www.unfpa.org/resources/impact-covid-19-pandemic-family-planning-and-ending-gender-based-violence-female-genital)
 
 <script src="https://utteranc.es/client.js"
         repo="melizzacollo/blog"
