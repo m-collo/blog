@@ -1,13 +1,17 @@
 ---
-toc: true
+toc: false
 layout: post
-description: Come from a Life Science background and encountering Data Science for the first time? Don't have an idea of what you can do in the field of Data Science as a Life Scientist? Get started here.
-categories: [Data Science Projects]
-title: The Implications of the COVID-19 Pandemic on the Family as the Basic Unit of Society: The Rise of Domestic Violence Cases or the "Shadow" Pandemic
+description: This is the original unpublished and unreviewed research proposal that I helped to write with my cousin who is a criminologist. I am interested in conducting the data analytics/statistical analysis of this study so I took the opportunity to help my cousin with this research proposal.
+categories: [Data-Science-Projects]
+title: "Data Science Project Idea Three: A Domestic Violence Cases Study"
 sticky_rank: 3
 ---
 
-This is the original incomplete, unpublished and unreviewed research proposal that I helped to write with my cousin who is a criminologist. I am interested in conducting the data analytics/statistical analysis of this study so I took the opportunity to help my cousin with this research proposal.
+<p align="center"><b>The Implications of the COVID-19 Pandemic on the Family as the Basic Unit of Society: The Rise of Domestic Violence Cases in Municipalities in the 1st and 2nd Districts of Ilocos Sur, Region I-Ilocos, North Luzon</b></p>
+
+<p align="center"><i>A Proposed Study</i></p>
+
+</br>
 
 According to the World Health Organization, violence against women or VAW, particularly intimate partner violence or IPV (physical and/or sexual) is highly prevalent, with 1 in 3 women worldwide experiencing it in their lifetime, and “tends to increase during every type of emergency,” such as a pandemic like the COVID-19  (2020). WHO also states that data is scarce but there have been reports in several countries, specifically reports to the police, that suggest domestic violence cases have increased since the COVID-19 outbreak. It is being referred to as “the shadow pandemic,” shadowing behind the current COVID-19 pandemic (Dabney et al., 2021).
 
@@ -43,7 +47,7 @@ The collected data will be analyzed based on the following factors: types of dom
 
 The significance of the data analysis will be determined through statistical methods and the analyzed data and subsequent conclusions made will be compared with the predictions of the UPPI and UNFPA in the discussion and interpretation of data. Evans et al. (2021) used SPSS and Microsoft Excel software for data visualization, graphing the cumulative counts and modelling yearly trendlines. Capinha et al. (2021) analyzed χ2, Cramer's V, and standardized residual differences from their data using IBM SPSS STATISTIC 22 software as well as confidence intervals. Meanwhile, Moore et al. (2021) used descriptive statistics to analyze their data, particularly chi-squared tests for analysis of significant differences. Their data were recorded in open fields on an Excel spreadsheet and retrospectively coded for analysis with sense checking of the interpretations of the coding. Their study was also ethically approved. Crime patterns during the pandemic were preliminary tested using the mapping dashboard. The data were then presented as percentages of cases in charts.
 
-References:
+**References:**
 
 Capinha, Marta, Guinote, Hugo, and Rijo, Daniel. (2021, October 5). Intimate Partner Violence Reports During the COVID-19 Pandemic First Year in Portuguese Urban Areas: A Brief Report. Journal of Family Violence. https://doi.org/10.1007/s10896-021-00332-y
 
@@ -68,7 +72,7 @@ Taneri, PE. (2021, October 20). Impact of COVID-19 pandemic on violence against 
 United Nations Populations Fund (UNFPA). (2020, April 27). Impact of the COVID-19 pandemic on family planning and ending gender-based violence, female genital mutilation and child marriage: Pandemic threatens achievement of the Transformative Results committed by UNFPA. Avenir Health, USA: Johns Hopkins University, Australia: Victoria University (Contributors). Interim Technical Note. https://www.unfpa.org/resources/impact-covid-19-pandemic-family-planning-and-ending-gender-based-violence-female-genital
 
 <script src="https://utteranc.es/client.js"
-        repo="mlizjmc/blog"
+        repo="melizzacollo/blog"
         issue-term="[ENTER TERM HERE]"
         theme="preferred-color-scheme"
         crossorigin="anonymous"
