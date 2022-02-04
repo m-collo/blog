@@ -105,7 +105,7 @@ He also gave some "[Data Science Portfolio Tips](https://youtu.be/ddFskLtQsbI)" 
 
 
 
-Here, I outline the points that can be taken away from discussion into four main points under the topic of the Data Science Portfolio:
+Here, I outline the points that can be taken away from the discussion into four main points under the topic of the Data Science Portfolio:
 
 ### _Why should you implement data science projects?_
 
