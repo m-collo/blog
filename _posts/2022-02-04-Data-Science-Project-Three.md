@@ -7,13 +7,16 @@ title: "Data Science Project Idea Three: A Domestic Violence Cases Study"
 sticky_rank: 3
 ---
 
-<p align="center"><b>The Implications of the COVID-19 Pandemic on the Family as the Basic Unit of Society: The Rise of Domestic Violence Cases in Municipalities in the 1st and 2nd Districts of Ilocos Sur, Region I-Ilocos, North Luzon</b></p>
+---
+
+<p align="center"><b>The Implications of the COVID-19 Pandemic on the Family as the Basic Unit of Society:
+</br>The Rise of Domestic Violence Cases in Municipalities in the 1st and 2nd Districts of Ilocos Sur, Region I-Ilocos, North Luzon</b></p>
 
 <p align="center"><i>A Proposed Study</i></p>
 
 <p align="center">October 27, 2021</p>
 
-
+---
 
 According to the World Health Organization, violence against women or VAW, particularly intimate partner violence or IPV (physical and/or sexual) is highly prevalent, with 1 in 3 women worldwide experiencing it in their lifetime, and “tends to increase during every type of emergency,” such as a pandemic like the COVID-19  (2020). WHO also states that data is scarce but there have been reports in several countries, specifically reports to the police, that suggest domestic violence cases have increased since the COVID-19 outbreak. It is being referred to as “the shadow pandemic,” shadowing behind the current COVID-19 pandemic (Dabney et al., 2021).
 
@@ -51,27 +54,21 @@ The significance of the data analysis will be determined through statistical met
 
 **References:**
 
-Capinha, Marta, Guinote, Hugo, and Rijo, Daniel. (2021, October 5). Intimate Partner Violence Reports During the COVID-19 Pandemic First Year in Portuguese Urban Areas: A Brief Report. Journal of Family Violence. https://doi.org/10.1007/s10896-021-00332-y
+Capinha, Marta, Guinote, Hugo, and Rijo, Daniel. (2021, October 5). Intimate Partner Violence Reports During the COVID-19 Pandemic First Year in Portuguese Urban Areas: A Brief Report. *Journal of Family Violence*, [https://doi.org/10.1007/s10896-021-00332-y](https://doi.org/10.1007/s10896-021-00332-y)
 
-COVID-19 and violence against women: What the health sector/system can do. (2020, April 7). World Health Organization (Editor). Human reproduction programme. Policy brief. https://www.who.int/publications/i/item/WHO-SRH-20.04
+COVID-19 and violence against women: What the health sector/system can do. (2020, April 7). World Health Organization (Editor). *Sexual and Reproductive Health and Research*, [https://www.who.int/publications/i/item/WHO-SRH-20.04](https://www.who.int/publications/i/item/WHO-SRH-20.04)
 
-Evans, Dabney P., Hawk, Shila René, and Ripkey, Carrie E. (2021, August 25). Domestic Violence in Atlanta Georgia Before and During COVID-19. Violence and Gender, Vol. 9, No. 3. https://doi.org/10.1089/vio.2020.0061
+Evans, Dabney P., Hawk, Shila René, and Ripkey, Carrie E. (2021, August 25). Domestic Violence in Atlanta Georgia Before and During COVID-19. *Violence and Gender, Vol. 9, No. 3*, [https://doi.org/10.1089/vio.2020.0061](https://doi.org/10.1089/vio.2020.0061)
 
-Gonzalez, Gustavo. (2020, December 15). Violence against women and girls: A pandemic we must end now. United Nations Resident Coordinator for the Philippines. https://philippines.un.org/en/105122-violence-against-women-and-girls-pandemic-we-must-end-now
+Gonzalez, Gustavo. (2020, December 15). Violence against women and girls: A pandemic we must end now. *United Nations Philippines, Stories*, [https://philippines.un.org/en/105122-violence-against-women-and-girls-pandemic-we-must-end-now](https://philippines.un.org/en/105122-violence-against-women-and-girls-pandemic-we-must-end-now)
 
-Khullar, Akanksha. (2021, September 25). COVID-19: Impact on Women in the Philippines. Institute of Peace and Conflict Studies, Centre for Internal and Regional Security. http://www.ipcs.org/comm_select.php?articleNo=5787
+Khullar, Akanksha. (2021, September 25). COVID-19: Impact on Women in the Philippines. *Institute of Peace and Conflict Studies, Commentary #5787*, [http://www.ipcs.org/comm_select.php?articleNo=5787](http://www.ipcs.org/comm_select.php?articleNo=5787)
 
-Marquez, Maria Paz N., Laguna, Elma P., Kabamalan, Maria Midea M., and Cruz, Grace T. (2020, October 15). Estimating the potential impact of the COVID-19 pandemic on key sexual and reproductive health outcomes in the Philippines: Technical Report. University of the Philippines Population Institute. https://www.uppi.upd.edu.ph/sites/default/files/pdf/UPPI-Impact-of-COVID-19-on-SRH.pdf
+Marquez, Maria Paz N., Laguna, Elma P., Kabamalan, Maria Midea M., and Cruz, Grace T. (2020, October 15). Estimating the potential impact of the COVID-19 pandemic on key sexual and reproductive health outcomes in the Philippines: Technical Report. *University of the Philippines Population Institute*, [https://www.uppi.upd.edu.ph/sites/default/files/pdf/UPPI-Impact-of-COVID-19-on-SRH.pdf](https://www.uppi.upd.edu.ph/sites/default/files/pdf/UPPI-Impact-of-COVID-19-on-SRH.pdf)
 
-Miller, Amalia R., Segal, Carmit, and Spencer, Melissa. (2021, October 11). Effects of COVID-19 Shutdowns on Domestic Violence in US Cities (Pre-printed copy, not yet peer-reviewed). https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3938970
+Moore, Graham, Buckley, Kelly, Haworth, Emma, Burn, Anne-Marie, Copeland, Lauren, Evans, Rhiannon, and Ware, Lisa. (2021, September 25). Police referrals for domestic abuse before and during the first COVID-19 lockdown: An analysis of routine data from one specialist service in South Wales. *Journal of Public Health, pp. 1–8*, [https://doi.org/10.1093/pubmed/fdab343](https://doi.org/10.1093/pubmed/fdab343)
 
-Moore, Graham, Buckley, Kelly, Haworth, Emma, Burn, Anne-Marie, Copeland, Lauren, Evans, Rhiannon, and Ware, Lisa. (2021, September 25). Police referrals for domestic abuse before and during the first COVID-19 lockdown: An analysis of routine data from one specialist service in South Wales. Journal of Public Health, pp. 1–8. https://doi.org/10.1093/pubmed/fdab343
-
-Schokkenbroek, Janneke M., Anrijs, Sarah, Ponnet, Koen, and Hardyns, Wim. (2021, August 25). Locked Down Together: Determinants of Verbal Partner Violence During the COVID-19 Pandemic. Violence and Gender, Vol. 8, No. 3. https://doi.org/10.1089/vio.2020.0064
-
-Taneri, PE. (2021, October 20). Impact of COVID-19 pandemic on violence against women: an environmental study from Turkey. European Journal of Public Health, Volume 31, Issue Supplement_3, October 2021, ckab164.810. https://doi.org/10.1093/eurpub/ckab164.810
-
-United Nations Populations Fund (UNFPA). (2020, April 27). Impact of the COVID-19 pandemic on family planning and ending gender-based violence, female genital mutilation and child marriage: Pandemic threatens achievement of the Transformative Results committed by UNFPA. Avenir Health, USA: Johns Hopkins University, Australia: Victoria University (Contributors). Interim Technical Note. https://www.unfpa.org/resources/impact-covid-19-pandemic-family-planning-and-ending-gender-based-violence-female-genital
+United Nations Populations Fund (UNFPA). (2020, April 27). Impact of the COVID-19 pandemic on family planning and ending gender-based violence, female genital mutilation and child marriage: Pandemic threatens achievement of the Transformative Results committed by UNFPA. Avenir Health, USA: Johns Hopkins University, Australia: Victoria University (Contributors). *Interim Technical Note*, [https://www.unfpa.org/resources/impact-covid-19-pandemic-family-planning-and-ending-gender-based-violence-female-genital](https://www.unfpa.org/resources/impact-covid-19-pandemic-family-planning-and-ending-gender-based-violence-female-genital)
 
 <script src="https://utteranc.es/client.js"
         repo="melizzacollo/blog"
