@@ -1,7 +1,7 @@
 ---
 toc: false
 layout: post
-description: This is the original unpublished and unreviewed research proposal that I helped to write with my cousin who is a criminologist. I am interested in conducting the data analytics/statistical analysis of this study so I took the opportunity to help my cousin with this research proposal.
+description: This is the original incomplete unpublished and unreviewed research proposal that I helped to write with my cousin who is a criminologist. I am interested in conducting the data analytics/statistical analysis of this study so I took the opportunity to help my cousin with this research proposal.
 categories: [Data-Science-Projects]
 title: "Data Science Project Idea Three: A Domestic Violence Cases Study"
 sticky_rank: 3
