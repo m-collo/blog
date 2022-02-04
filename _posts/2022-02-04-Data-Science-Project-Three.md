@@ -11,7 +11,7 @@ sticky_rank: 3
 
 <p align="center"><i>A Proposed Study</i></p>
 
-</br>
+
 
 According to the World Health Organization, violence against women or VAW, particularly intimate partner violence or IPV (physical and/or sexual) is highly prevalent, with 1 in 3 women worldwide experiencing it in their lifetime, and “tends to increase during every type of emergency,” such as a pandemic like the COVID-19  (2020). WHO also states that data is scarce but there have been reports in several countries, specifically reports to the police, that suggest domestic violence cases have increased since the COVID-19 outbreak. It is being referred to as “the shadow pandemic,” shadowing behind the current COVID-19 pandemic (Dabney et al., 2021).
 
