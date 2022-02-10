@@ -7,7 +7,7 @@ title: Life Scientists' Quick Introduction to Data Science
 sticky_rank: 1
 ---
 
-
+<meta name="robots" content="noindex">
 
 *Updated February 3, 2022: Added video "My journey into data science"*
 
