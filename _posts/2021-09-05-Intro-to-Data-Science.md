@@ -1,4 +1,5 @@
 ---
+search_exclude: true
 hide: true
 toc: true
 layout: post
