@@ -1,4 +1,6 @@
 ---
+search_exclude: true
+hide: true
 layout: page
 title: About
 permalink: /about/
