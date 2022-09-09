@@ -1,4 +1,5 @@
 ---
+hide: true
 toc: false
 layout: post
 description: This is the original incomplete unpublished and unreviewed research proposal that I helped to write with my cousin who is a criminologist. I am interested in conducting the data analytics/statistical analysis of this study so I took the opportunity to help my cousin with this research proposal.
