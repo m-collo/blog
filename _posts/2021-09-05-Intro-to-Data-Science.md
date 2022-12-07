@@ -174,7 +174,7 @@ _Some other videos you can check out:_
 
 
 <script src="https://utteranc.es/client.js"
-        repo="melizzacollo/blog"
+        repo="m-collo/blog"
         issue-term="[ENTER TERM HERE]"
         theme="preferred-color-scheme"
         crossorigin="anonymous"
