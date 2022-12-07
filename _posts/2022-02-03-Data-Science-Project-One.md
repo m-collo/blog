@@ -80,7 +80,7 @@ Also, I learned that [my former college will be offering a new Bachelor of Scien
 On that topic, I also recently had the thought, why not continue [the Data Science Specialization being offered by Johns Hopkins University at Coursera](https://www.coursera.org/specializations/jhu-data-science)? But then I remembered that I would have to dive right into R programming and I’m overcome by the feeling of being overwhelmed again. For some reason, I decided to look through any [other courses that might be offered by Johns Hopkins University](https://www.coursera.org/jhu) since I remembered that the Data Science courses were taught by Biostatistics professors at Bloomberg School of Public Health. That’s when I found the Math courses being offered (Algebra, Pre-calculus, Calculus) and that’s when I had the thought to brush up on my Math skills as the Data Professor mentioned that it was one of the skills important in the field of data science (See “What do you need to become a data scientist?” in my [Life Scientists' Quick Introduction to Data Science](https://melizzacollo.github.io/blog/data-science-courses/2021/09/05/Intro-to-Data-Science.html) post). So now I am currently taking Johns Hopkins’ [Algebra: Elementary to Advance Specialization](https://www.coursera.org/specializations/algebra-elementary-to-advanced) in Coursera. I’m hoping to finish calculus by the time the academic year 2022-2033 starts for the Master of Statistics program.
 
 <script src="https://utteranc.es/client.js"
-        repo="melizzacollo/blog"
+        repo="m-collo/blog"
         issue-term="[ENTER TERM HERE]"
         theme="preferred-color-scheme"
         crossorigin="anonymous"
