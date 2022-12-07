@@ -75,7 +75,7 @@ Moore, Graham, Buckley, Kelly, Haworth, Emma, Burn, Anne-Marie, Copeland, Lauren
 United Nations Populations Fund (UNFPA). (2020, April 27). Impact of the COVID-19 pandemic on family planning and ending gender-based violence, female genital mutilation and child marriage: Pandemic threatens achievement of the Transformative Results committed by UNFPA. Avenir Health, USA: Johns Hopkins University, Australia: Victoria University (Contributors). [https://www.unfpa.org/resources/impact-covid-19-pandemic-family-planning-and-ending-gender-based-violence-female-genital](https://www.unfpa.org/resources/impact-covid-19-pandemic-family-planning-and-ending-gender-based-violence-female-genital)
 
 <script src="https://utteranc.es/client.js"
-        repo="melizzacollo/blog"
+        repo="m-collo/blog"
         issue-term="[ENTER TERM HERE]"
         theme="preferred-color-scheme"
         crossorigin="anonymous"
